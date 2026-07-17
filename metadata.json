@@ -1,0 +1,6 @@
+{
+  "name": "파닉스 영어 교실",
+  "description": "118개의 모든 필수 영단어 발음 규칙과 파닉스 규칙, 한국어 뜻, 꿀팁 해설을 4개의 표(단모음, 장모음, 이중자음, 이중모음)로 완벽 정리한 교육용 어플리케이션입니다. 카드 뒤집기 학습, 소리 듣기(TTS), 실력 퀴즈, 철자 맞추기 게임 기능을 수록했습니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
